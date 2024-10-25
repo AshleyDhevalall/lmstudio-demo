@@ -49,7 +49,7 @@ what passwords are used?
 ```
 
 Sample chat response  
-![chat_response](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/chat_reponse.png)
+![chat_response](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/chat_response.png)
 
 > [!IMPORTANT]  
 > Always verify the accuracy of the results
