@@ -19,7 +19,7 @@ Key functionality
 > [QuickStart](https://lmstudio.ai/docs/basics#1-download-an-llm-to-your-computer)  
 
 2. Open LM Studio. Please patient while the application opens...  
-![open_gtp4all](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/open_gtp4all.png)
+![lmstudio](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/lmstudio.png)
 
 3. Adding new model (Click `Models` on left menu) and then click `+ Add Model` button  
 > [!TIP]
