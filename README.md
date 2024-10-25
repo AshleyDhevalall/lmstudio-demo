@@ -57,7 +57,7 @@ Sample chat response
 ## Further reading  
 [Docs](https://lmstudio.ai/docs)  
 [Download Models](https://lmstudio.ai/docs/basics/download-model)  
-[Chat](https://lmstudio.ai/docs/basics/chat)
+[Chat](https://lmstudio.ai/docs/basics/chat)  
 [Chat with Documents](https://lmstudio.ai/docs/basics/rag)
 
 ## Authors
