@@ -25,7 +25,7 @@ Key functionality
 > [!TIP]
 > [Download Models](https://lmstudio.ai/docs/basics/download-model)
 
-![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model_1.png)
+![download](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/download.png)
 
 4. Search for `Llama 3.2 1B Instruct` and then click `Download`. Please patient while to model downloads...
 
