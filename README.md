@@ -22,21 +22,19 @@ Key functionality
 ![lmstudio](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/lmstudio.png)
 
 3. Download model (Click `Models` on left menu) and then click `+ Add Model` button  
+You can search for models by keyword (e.g. llama, gemma, lmstudio), or by providing a specific user/model string.  
+You can even insert full Hugging Face URLs into the search bar!. Please patient while to model downloads...  
 > [!TIP]
 > [Download Models](https://lmstudio.ai/docs/basics/download-model)
 
 ![download](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/download.png)
 
-4. Search for `Llama 3.2 1B Instruct` and then click `Download`. Please patient while to model downloads...
-
-![explore_models](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/explore_models.png)
-
-5. Clone repository
+4. Clone repository
 ```
-git clone https://github.com/AshleyDhevalall/gpt4all-demo.git
+git clone https://github.com/AshleyDhevalall/lmstudio-demo.git
 ```
 
-6. Configure settings
+5. Configure settings
 > [!TIP]
 > [Settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html)
 
