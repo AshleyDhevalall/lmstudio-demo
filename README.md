@@ -41,8 +41,10 @@ git clone https://github.com/AshleyDhevalall/lmstudio-demo.git
 Select model
 ![download](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/select_model.png)
 
+6. Navigate to the folder you cloned in Step 4 and select the `src\UsingSQLWithPowerShellExamplesv1`
 
-    Enter your prompt and click `Send`
+
+7. Enter your prompt and click `Send`
 ```
 what passwords are used?
 ```
