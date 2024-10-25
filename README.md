@@ -21,7 +21,7 @@ Key functionality
 2. Open LM Studio. Please patient while the application opens...  
 ![lmstudio](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/lmstudio.png)
 
-3. Download model (Click `Models` on left menu) and then click `+ Add Model` button  
+3. Download model (Click `My Models` on left menu). Ensure you have selected 'Developer' as the role
 You can search for models by keyword (e.g. llama, gemma, lmstudio), or by providing a specific user/model string.  
 You can even insert full Hugging Face URLs into the search bar!. Please patient while to model downloads...  
 > [!TIP]
