@@ -21,9 +21,9 @@ Key functionality
 2. Open LM Studio. Please patient while the application opens...  
 ![lmstudio](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/lmstudio.png)
 
-3. Adding new model (Click `Models` on left menu) and then click `+ Add Model` button  
+3. Download model (Click `Models` on left menu) and then click `+ Add Model` button  
 > [!TIP]
-> [Models](https://docs.gpt4all.io/gpt4all_desktop/models.html)
+> [Download Models](https://lmstudio.ai/docs/basics/download-model)
 
 ![add_model](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_model_1.png)
 
