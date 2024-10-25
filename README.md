@@ -39,7 +39,7 @@ git clone https://github.com/AshleyDhevalall/lmstudio-demo.git
 > [Managing chats](https://lmstudio.ai/docs/basics/chat)
   
 Select model
-![download](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/select_model.png)
+![select-model](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/select_model.png)
 
 6. Navigate to the folder you cloned in Step 4 and select the `src\UsingSQLWithPowerShellExamplesv1.ps1` file
 
@@ -47,55 +47,18 @@ Select model
 ```
 what passwords are used?
 ```
-> [!TIP]
-> [Chat](https://docs.gpt4all.io/gpt4all_desktop/chats.html)
 
 Sample chat response  
-![chat](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/chat.png)
-
-5. Configure settings
-> [!TIP]
-> [Settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html)
-
-7.1 Click `LocalDocs` on left menu. Provide a `Collection name` eg. `Sample Test`
-> [!TIP]
-> [LocalDocs](https://docs.gpt4all.io/gpt4all_desktop/localdocs.html)  
-
-<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/add_document_collection.png" style='height: 70%; width: 70%;'>
-
-7.2 Click `Browse`. Navigate to cloned repository folder above (Step 5) and then select the folder. Please patient while the embeddings complete...  
-
-<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/embeddings.png" style='height: 70%; width: 70%;'>
-
-
+![chat_response](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/chat_reponse.png)
 
 > [!IMPORTANT]  
-> Always verify the accuracy of the results  
-> GTP4All has an option that allows you to view the source of the files in the Chat response
-
-## Troubleshooting
-#### Embedding taking too long
-Uploading large files will result in an increased duration for the embedding to complete. Alternatively try a smaller subset of docs
-
-#### Load Docs collection shows 0 files and 0 words
-
-<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/troubleshooting.png" style='height: 70%; width: 70%;'>
-
-Ensure that you have included the correct file extension
-![allowed_file_extensions](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/allowed_file_extensions.png)
-
-> [!TIP]
-> [Allowed File Extensions](https://github.com/nomic-ai/gpt4all/wiki/LocalDocs)
-
-#### Chat window closes after selecting model -> try using a smaller model
-This usually happens when using models that required more RAM than is available on your system. Try using a smaller model
-
-<img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/ram_required.png" style='height: 70%; width: 70%;'>
+> Always verify the accuracy of the results
 
 ## Further reading  
 [Docs](https://lmstudio.ai/docs)  
 [Download Models](https://lmstudio.ai/docs/basics/download-model)  
 [Chat](https://lmstudio.ai/docs/basics/chat)
+[Chat with Documents](https://lmstudio.ai/docs/basics/rag)
 
 ## Authors
 
