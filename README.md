@@ -38,7 +38,7 @@ git clone https://github.com/AshleyDhevalall/lmstudio-demo.git
 > [!TIP]
 > [Managing chats](https://lmstudio.ai/docs/basics/chat)
   
-6. Select model
+Select model
 ![download](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/select_model.png)
 
 
