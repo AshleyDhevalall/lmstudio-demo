@@ -66,6 +66,6 @@ Sample chat response
 
 ## Acknowledgements
 
-[lmstudio](<https://lmstudio.ai/>)  
+[LMStudio](<https://lmstudio.ai/>)  
 [Joshua Stenhouse](<https://virtuallysober.com/2017/07/10/working-with-sql-databases-using-powershell/>)
 
