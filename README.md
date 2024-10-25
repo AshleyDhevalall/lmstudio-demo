@@ -1,4 +1,4 @@
-# LMStudio Demo
+# LM Studio Demo
 The objective of this article is to run large language models locally to analyze local docs. In this use case we analyze powershell scripts that make use of a sql server.
 
 ## What is LM Studio?
@@ -66,6 +66,6 @@ Sample chat response
 
 ## Acknowledgements
 
-[LMStudio](<https://lmstudio.ai/>)  
+[LM Studio](<https://lmstudio.ai/>)  
 [Joshua Stenhouse](<https://virtuallysober.com/2017/07/10/working-with-sql-databases-using-powershell/>)
 
