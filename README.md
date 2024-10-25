@@ -34,6 +34,24 @@ You can even insert full Hugging Face URLs into the search bar!. Please patient 
 git clone https://github.com/AshleyDhevalall/lmstudio-demo.git
 ```
 
+5. Click `Chat` on left menu
+> [!TIP]
+> [Managing chats](https://lmstudio.ai/docs/basics/chat)
+  
+6. Select model
+![download](https://github.com/AshleyDhevalall/lmstudio-demo/blob/main/docs/select_model.png)
+
+
+    Enter your prompt and click `Send`
+```
+what passwords are used?
+```
+> [!TIP]
+> [Chat](https://docs.gpt4all.io/gpt4all_desktop/chats.html)
+
+Sample chat response  
+![chat](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/chat.png)
+
 5. Configure settings
 > [!TIP]
 > [Settings](https://docs.gpt4all.io/gpt4all_desktop/settings.html)
@@ -48,17 +66,7 @@ git clone https://github.com/AshleyDhevalall/lmstudio-demo.git
 
 <img src="https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/embeddings.png" style='height: 70%; width: 70%;'>
 
-8. Click `New chat` on left menu. Ensure you select the files from the `Local Docs` panel on the right side  
-  
-    Enter your prompt and click `Send`
-```
-what passwords are used?
-```
-> [!TIP]
-> [Chat](https://docs.gpt4all.io/gpt4all_desktop/chats.html)
 
-Sample chat response  
-![chat](https://github.com/AshleyDhevalall/gpt4all-demo/blob/main/docs/chat.png)
 
 > [!IMPORTANT]  
 > Always verify the accuracy of the results  
